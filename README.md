@@ -14,3 +14,9 @@ If you want to join this project, please e-mail me at SlnvAdobe@outlook.com.
 
 At first, I decided to use C++ to develop this project, but then I found a problem: it's too complicated. As a personal project, it's obviously inappropriate to use C++.
 But I also know some Python, so I decided to use Python to develop this project. At the beginning, I used Tkinter library, but its interface didn't suit me, so I used PyQt5 library for development. It makes the interface of this software looks great. So I decided to develop with PyQt5.
+
+# About PyQt5
+
+Docs:
+> [doc.qt.io](https://doc.qt.io/qtforpython/modules.html)
+> [www.riverbankcomputing.com](https://www.riverbankcomputing.com/static/Docs/PyQt5/sip-classes.html)
