@@ -19,4 +19,5 @@ But I also know some Python, so I decided to use Python to develop this project.
 
 Docs:
 > [doc.qt.io](https://doc.qt.io/qtforpython/modules.html)
+> 
 > [www.riverbankcomputing.com](https://www.riverbankcomputing.com/static/Docs/PyQt5/sip-classes.html)
