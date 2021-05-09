@@ -15,6 +15,16 @@ If you want to join this project, please e-mail me at SlnvAdobe@outlook.com.
 At first, I decided to use C++ to develop this project, but then I found a problem: it's too complicated. As a personal project, it's obviously inappropriate to use C++.
 But I also know some Python, so I decided to use Python to develop this project. At the beginning, I used Tkinter library, but its interface didn't suit me, so I used PyQt5 library for development. It makes the interface of this software looks great. So I decided to develop with PyQt5.
 
+# Development Environment
+
+> System: Windows 7 System 64 bit (I didn't use Windows 10 because I heard that Windows 10 is very error prone)
+> 
+> Editor: Pycharm Community Edition 2020.1.3 (For personal projects, the community version of Pycharm is powerful enough)
+> 
+> Python: Python 3.7
+> 
+> PyQt: PyQt5
+
 # About PyQt5
 
 Docs:
